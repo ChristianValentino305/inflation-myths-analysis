@@ -15,8 +15,11 @@ This repository serves to demonstrate the iterative process our group made withi
 ---
 ### Contributors
 **Gilberto Corral** - Myth 2 graphs, research, and code contributions
+
 **Cephas Kim** - Chart design, research, and final ARCgis designer
+
 **Alec Mesec** - Myth 3 graphs, research, and code contributions
+
 **Christian Valentino** - Myth 1 graphs, research, and code contributions
 
 
