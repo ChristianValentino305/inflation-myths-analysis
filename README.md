@@ -20,7 +20,8 @@ This repository serves to demonstrate the iterative process our group made withi
 
 **Alec Mesec** - Myth 3 graphs, research, and code contributions
 
-**Christian Valentino** - Myth 1 graphs, research, and code contributions
+**Christian Valentino** - Myth 1 graphs, research, code contributions, article editor
+
 
 
 
